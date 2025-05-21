@@ -76,15 +76,6 @@ If you need to manually configure the database:
   - JavaScript (minimal)
   - Bootstrap 5
 
-**Note**: Delivery personnel cannot cancel orders. Cancellations can only be done by administrators.
-
-### Integration with Admin System
-
-- Admin assigns deliveries to delivery personnel
-- Delivery personnel update delivery status
-- Admin can view all deliveries and their status
-- Status changes are synchronized between delivery and admin systems
-
 ## 👤 Default Accounts
 
 ### Admin Account
